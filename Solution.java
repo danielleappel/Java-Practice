@@ -31,6 +31,7 @@ public class Solution {
             }
 
         }
+        scan.close();
 
     }
 }
